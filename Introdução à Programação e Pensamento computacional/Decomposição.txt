@@ -1,11 +1,11 @@
-"Dado um problema complexo, devemos quebra-lo em problemas menores. Portantom problemas
- mais fáceis e gerenciáveis"
+"Dado um problema complexo, devemos quebra-lo em problemas menores. Tornando-os problemas
+Mais fáceis e gerenciáveis"
 
-Isso significa que, quando nos depararmos com um problea no qual não conseguamos resovler por completo,
-devemos dividir o mesmo em várias partes. Assim, resolvendo um pouco de cada vez. 
+Isso significa que, quando nos depararmos com um problema no qual não conseguíamos resolver por completo,
+devemos dividir o mesmo em várias partes. Assim, resolvendo um pouco de cada vez.
 
-E como decompor? 
+E como decompor?
 
-identifique os requisitos (O que precisamos para resolver o problema)
+Identifique os requisitos (O que precisamos para resolver o problema)
 Determine as etapas (O passo a passo necessário para chegar a solução)
 Execute cada etapa (Coloque o plano em ação)

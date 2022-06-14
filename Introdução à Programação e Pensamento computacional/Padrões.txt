@@ -1,12 +1,11 @@
-Recinhecimento de padrões 
+Reconhecimento de padrões 
 
 • Modelo base
 • Estrutura invariante 
 • Repetição 
 
-* Há variações, mas existe um modelo de referencia mínima para reconhecer tal objeto. Ex; exitem vários 
+* Há variações, mas existe um modelo de referencia mínima para reconhecer tal objeto. Ex; existem vários 
 tipos modelos de smartphone, mas todos tem várias características em comum, seguem o mesmo padrão de referencia.
 
 O mesmo ocorre na computação. Por exemplo, por padrão as redes sociais comprimem as fotos quando passam 
 pelos servidores.
-
