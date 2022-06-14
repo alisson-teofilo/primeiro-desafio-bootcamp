@@ -1,0 +1,2 @@
+git add. : "Prepara" todos os arquivos (que não estão listados no .gitignore) em todo o repositório.
+git status: Mostra o status do arquivo de trabalho

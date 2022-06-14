@@ -1,0 +1,9 @@
+Navegação: 
+pwd: Exibe o diretorio de trabalho atual. ex: /c/Users/aliss/OneDrive...
+ls: Lista o conteúdo do diretório atual
+cd: Navega entre as pastas. "Change Directory"  
+dir: dir é equivalente a ls -C -b ; isto é, por padrão, os arquivos são listados   em colunas, 
+classificadas verticalmente e caracteres especiais são representados   por sequências de escape de barra invertida.
+ls: Lista o conteúdo do diretório atual. 
+
+
