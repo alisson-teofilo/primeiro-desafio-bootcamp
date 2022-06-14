@@ -1,2 +1,9 @@
-git add. : "Prepara" todos os arquivos (que não estão listados no .gitignore) em todo o repositório.
+git add . : "Prepara" todos os arquivos (que não estão listados no .gitignore) em todo o repositório.
+git commit -m "anotações": Inicialica o commit com opção de comentar as alterações
+git push origin main: "Empurra" as alterções local para o servidor.
 git status: Mostra o status do arquivo de trabalho
+git clone [url]: clona um repositório 
+git status: Mostra o estado do arquivo
+git diff: Mostra exatamente o que foi alterado 
+
+link de comando úteis:https://comandosgit.github.io/
