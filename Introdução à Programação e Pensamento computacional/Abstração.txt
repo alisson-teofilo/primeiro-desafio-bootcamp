@@ -1,0 +1,10 @@
+
+A abstração na computação parte do principio de otimização, que somente pontos essenciais sejam 
+processados, descartando os detralhes.
+
+É utilizada em diversas áreas do conhecimento:
+• Algoritmos de pesquisa e ordenação
+• Busca binária
+• Algoritmos de Clusteting
+
+Também é utilizada em estuturas de dados: Árvore, Lista e Grafos.

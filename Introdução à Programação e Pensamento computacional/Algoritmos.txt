@@ -1,0 +1,11 @@
+São instruções passo-a-passo do que o computador precisa fazer. 
+
+Podemos estruturar/descrever o nosso algoritmo por meio de ferramentas narrativas, fluxogramas
+ou pseudocódigo. 
+
+• Primeiro precisamos definir as entradas e saída, se esperamos algum tipo de retorno do código.
+ podemos utilizar o diagramas de "use case" nesse estágio do programa. 
+• Codificação; utilizamos algum tipo de linguagem para passar as instruções para o computador, que é compilado 
+para binário, a linguagem que o computador entende. 
+ 
+Resumindo: Entrada, processamento e saída. 

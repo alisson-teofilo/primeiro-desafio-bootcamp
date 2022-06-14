@@ -1,0 +1,3 @@
+Lógica,
+É uma forma de pensamento estruturado que nos auxilía a determinar
+ o que é verdadeiro ou não, dentro de um contexto.
