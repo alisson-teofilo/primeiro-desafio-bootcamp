@@ -1,4 +1,4 @@
-Navegação: 
+# Navegação: 
 pwd: Exibe o diretorio de trabalho atual. ex: /c/Users/aliss/OneDrive...
 ls: Lista o conteúdo do diretório atual
 cd: Navega entre as pastas. "Change Directory"  
